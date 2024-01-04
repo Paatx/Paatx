@@ -1,4 +1,4 @@
-<h1 align="center">Hola 🔊, soy Pat</h1>
+<h1 align="center">Saludos🔊!, soy Pat</h1>
 <h3 align="center">Estudiante de DAM</h3>
 
 - 👨‍💻 Aprendiendo **Programación**
