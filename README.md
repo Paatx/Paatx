@@ -1,7 +1,7 @@
 <h1 align="center">Hola 🔊, soy Pat</h1>
 <h3 align="center">Estudiante de DAM</h3>
 
-- 👨‍💻 Aprendiendo **JavaScript**
+- 👨‍💻 Aprendiendo **Programación**
 
 - 🥰 Cualquier ayuda o consejo son **bienvenidos!**
 
